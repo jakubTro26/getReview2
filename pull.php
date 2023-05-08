@@ -10,5 +10,5 @@ echo shell_exec('cd /var/www/u202319/data/www/woo.dmn.gg && /usr/bin/git pull or
 
 
 }
-//boftff
+//boftffg
 ?>
