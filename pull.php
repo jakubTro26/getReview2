@@ -4,6 +4,8 @@
 //hellofff
 
 echo 'kuba1234';
+
+echo $_POST;
 if ( $_POST['payload'] ) {
     echo 'mati123';
 //putenv('PATH=/usr/local/bin');
