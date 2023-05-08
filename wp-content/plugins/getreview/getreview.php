@@ -45,4 +45,5 @@ add_action('plugins_loaded', function () {
 
 
 	echo new GetReview\Connect::getGuid();
+	echo 'ending123';
 });
