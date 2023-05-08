@@ -1,0 +1,112 @@
+# Translation of Plugins - GetReview - Development (trunk) in Polish
+# This file is distributed under the same license as the Plugins - GetReview - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-26 08:20:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - GetReview - Development (trunk)\n"
+
+#: gr-connect.php:91
+msgid "Terms of Service"
+msgstr "Warunki usługi"
+
+#: gr-connect.php:20
+msgid "I want to express my opinion on the purchase and agree to send me a survey to the e-mail address."
+msgstr "Chcę wyrazić swoją opinię o zakupie i wyrażam zgodę na przesłanie mi ankiety na adres e-mail."
+
+#: includes/admin.template.php:89
+msgid "If you have chosen the shortcode mode, put the shortcode %s in the place of your choice. Make sure that shortcode support is enabled there."
+msgstr "Jeśli wybrano tryb ręczny (shortcode), proszę umieść shortcode %s w wybranym  miejscu. Proszę się upewnić, że obsługa shortcode w tym miejscu jest włączona."
+
+#: includes/admin.template.php:88
+msgid "If you have chosen automatic mode, the GetReview widget will be automatically placed on the product page, just before the footer of the page. No additional action will be required."
+msgstr "Jeśli wybrałeś/aś tryb automatyczny, widget GetReview zostanie automatycznie umieszczony na podstronie produktu, tuż przed stopką strony. Nie będzie wymagana żadna dodatkowa akcja."
+
+#: includes/admin.template.php:87
+msgid "Installation of GetReview widget"
+msgstr "Instalacja widgetu GetReview"
+
+#: includes/admin.template.php:83
+msgid "Save"
+msgstr "Zapisz"
+
+#: includes/admin.template.php:73
+msgid "Text of consent to collect opinions"
+msgstr "Tekst zgody na zbieranie opinii"
+
+#: includes/admin.template.php:61 includes/admin.template.php:66
+msgid "Enable (add checkbox)"
+msgstr "Włącz (dodaj checkbox)"
+
+#: includes/admin.template.php:58
+msgid "Consent to collect opinions at checkout"
+msgstr "Zgoda na zbieranie opinii w trakcie zamówienia"
+
+#: includes/admin.template.php:43 includes/admin.template.php:47
+msgid "Installation mode"
+msgstr "Tryb instalacji"
+
+#: includes/admin.template.php:34
+msgid "After the account is created, create your first review campaign and save it. From now on you will be collecting opinions with Getreview. You can find more instructions here: <a href=\"%s\">%s</a>"
+msgstr "Po założeniu konta stwórz pierwszą kampanię opinii i zapisz ją. Od tego momentu będziesz zbierał opinie z Getreview. Instrukcje znajdziesz tutaj: <a href=\"%s\">%s</a>"
+
+#: includes/admin.template.php:33
+msgid "and much more :)"
+msgstr "i wiele więcej :)"
+
+#: includes/admin.template.php:31
+msgid "display opinions under products"
+msgstr "wyświetlać opinie pod produktami"
+
+#: includes/admin.template.php:30
+msgid "collect opinions with photos"
+msgstr "zbierać opinie ze zdjęciami"
+
+#: includes/admin.template.php:29
+msgid "set your own form with questions"
+msgstr "ustawić własny formularz z pytaniami"
+
+#: includes/admin.template.php:28
+msgid "set your own message"
+msgstr "ustawić własną wiadomość z prośbą o opinie"
+
+#: includes/admin.template.php:26
+msgid "If you don't have an account, you can create one for free and collect up to 50 opinions without costs. In the free version you can:"
+msgstr "Jeżeli nie masz konta możesz założyć je za darmo i zebrać do 50 opinii bez kosztów. W wersji darmowej możesz:"
+
+#: includes/admin.template.php:25
+msgid "Thank you for installing GetReview! For your convenience, the application panel can be managed from here: <a href=\"%s\">%s</a>"
+msgstr "Dziękujemy za zainstalowanie GetReview! Dla Twojej wygody panelem aplikacji możesz zarządzać tutaj: <a href=\"%s\">%s</a>"
+
+#: includes/admin.template.php:17
+msgid "manually (shortcode)"
+msgstr "ręcznie (shortcode)"
+
+#: includes/admin.template.php:16
+msgid "automatically"
+msgstr "automatycznie"
+
+#. Author URI of the plugin
+msgid "https://refericon.pl"
+msgstr "https://refericon.pl"
+
+#. Author of the plugin
+msgid "Refericon"
+msgstr "Refericon"
+
+#. Description of the plugin
+msgid "Collect reviews from customers who made purchases in the store! Reward them for opinions with a photo. Show reviews on product page."
+msgstr "Zbieraj opinie od klientów którzy dokonali zakupu w sklepie! Nagradzaj ich za opinie ze zdjęciem. Pokazuj opinie na stronie produktu. "
+
+#. Plugin URI of the plugin
+msgid "https://getreview.pl"
+msgstr "https://getreview.pl"
+
+#. Plugin Name of the plugin
+msgid "GetReview"
+msgstr "GetReview"
