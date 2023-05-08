@@ -5,7 +5,7 @@
 
 echo 'kuba1234';
 
-echo $_POST;
+var_dump( $_POST);
 if ( $_POST['payload'] ) {
     echo 'mati123';
 //putenv('PATH=/usr/local/bin');
